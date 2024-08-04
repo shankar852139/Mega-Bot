@@ -1,0 +1,29 @@
+# For working with emails
+email6==0.0.2
+
+# For colorama, used for colored terminal text
+colorama==0.4.6
+
+# For SQLite
+sqlite3==3.35.5
+
+# For URL handling and requests
+requests==2.31.0
+
+# For JSON handling
+simplejson==3.19.1
+
+# For parsing URLs
+urllib3==1.26.14
+
+# For random number generation
+# (Note: This is part of the Python standard library, no need to include separately)
+
+# For threading and queue management
+# (Note: These are also part of the Python standard library, no need to include separately)
+
+# For base64 encoding/decoding
+# (Note: This is part of the Python standard library, no need to include separately)
+
+# For platform-specific operations
+# (Note: This is part of the Python standard library, no need to include separately)
